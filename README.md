@@ -14,7 +14,7 @@ https://www.coursera.org/learn/machine-learning/
 - **[ex2]** Regularization
 
 ### Week4
-- Neural Networks: Representation
+- **[ex3]** Neural Networks: Representation
 
 ### Week5
 - Neural Networks: Learning
