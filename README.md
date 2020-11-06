@@ -10,8 +10,8 @@ https://www.coursera.org/learn/machine-learning/
 - Octave/Matlab Tutorial
 
 ### Week3
-- Logistic Regression
-- Regularization
+- **[ex2]** Logistic Regression
+- **[ex2]** Regularization
 
 ### Week4
 - Neural Networks: Representation
