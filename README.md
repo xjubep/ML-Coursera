@@ -17,7 +17,7 @@ https://www.coursera.org/learn/machine-learning/
 - **[ex3]** Neural Networks: Representation
 
 ### Week5
-- Neural Networks: Learning
+- **[ex4]** Neural Networks: Learning
 
 ### Week6
 - Advice for Applying Machine Learning
