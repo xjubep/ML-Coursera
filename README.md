@@ -20,7 +20,7 @@ https://www.coursera.org/learn/machine-learning/
 - **[ex4]** Neural Networks: Learning
 
 ### Week6
-- Advice for Applying Machine Learning
+- **[ex5]** Advice for Applying Machine Learning
 - Machine Learning System Design
 
 ### Week7
