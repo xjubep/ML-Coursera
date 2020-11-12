@@ -24,7 +24,7 @@ https://www.coursera.org/learn/machine-learning/
 - Machine Learning System Design
 
 ### Week7
-- Support Vector Machines (SVMs)
+- **[ex6]** Support Vector Machines (SVMs)
 
 ### Week8
 - Unsupervised Learning
