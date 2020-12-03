@@ -27,8 +27,8 @@ https://www.coursera.org/learn/machine-learning/
 - **[ex6]** Support Vector Machines (SVMs)
 
 ### Week8
-- Unsupervised Learning
-- Dimensionality Reduction
+- **[ex7]** Unsupervised Learning (K-means)
+- **[ex7]** Dimensionality Reduction (PCA)
 
 ### Week9
 - Anomaly Detection
